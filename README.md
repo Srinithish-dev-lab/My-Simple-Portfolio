@@ -30,7 +30,7 @@ This is my **personal portfolio website**, built using **HTML5 and CSS3**. It hi
 
 ## 🔗 Live Preview
 
-**You can access my portfolio locally by opening `index.html` in your browser.**  
+**You can visit my portfolio by opening the link : https://srinithish-dev-lab.github.io/My-Simple-Portfolio/**  
 Feel free to explore the content, and don’t hesitate to connect with me!
 
 ---
