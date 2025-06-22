@@ -33,6 +33,8 @@ This is my **personal portfolio website**, built using **HTML5 and CSS3**. It hi
 **You can visit my portfolio by opening the link : https://srinithish-dev-lab.github.io/My-Simple-Portfolio/**  
 Feel free to explore the content, and don’t hesitate to connect with me!
 
+## 🔗 Github Repo
+
 ---
 
 © 2025 Srinithish S M
