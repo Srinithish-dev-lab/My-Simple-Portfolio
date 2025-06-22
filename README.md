@@ -35,6 +35,7 @@ Feel free to explore the content, and don’t hesitate to connect with me!
 
 ## 🔗 Github Repo
 
+you can visit my github repo for the files : https://github.com/Srinithish-dev-lab/My-Simple-Portfolio
 ---
 
 © 2025 Srinithish S M
