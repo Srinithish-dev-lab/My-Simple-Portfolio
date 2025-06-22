@@ -11,11 +11,12 @@ This is my **personal portfolio website**, built using **HTML5 and CSS3**. It hi
 
 ---
 
-## 🚀 Highlights
+## ✨ Highlights
 
-- ✅ Clean, minimal, and responsive UI  
-- ✅ Purely built with HTML and CSS (no frameworks)  
-- ✅ Features real projects like *SAGE* and *Password Strength Analyzer*
+- 📄 Simple 2-page portfolio (Home + Contact)  
+- 🎯 Clear structure, ideal for beginners  
+- 💡 Built with semantic HTML and custom CSS  
+- 🧑‍🎨 Clean and aesthetic design
 
 ---
 
@@ -28,11 +29,11 @@ This is my **personal portfolio website**, built using **HTML5 and CSS3**. It hi
 
 ---
 
-## 🔗 Live Preview
+## 🌐 Live Demo  
+🔗 [View the live site](https://your-live-demo-link.com) 🌍
 
-**You can visit my portfolio by opening the link : https://srinithish-dev-lab.github.io/My-Simple-Portfolio/**  
-Feel free to explore the content, and don’t hesitate to connect with me!
-
+## 📂 GitHub Repository  
+🔗 [Check the repository](https://github.com/your-username/Portfolio-Simple-Website)
 ## 🔗 Github Repo
 
 **You can visit my github repo for the files : https://github.com/Srinithish-dev-lab/My-Simple-Portfolio**
